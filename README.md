@@ -1,4 +1,4 @@
-# fractiz_code
+# trade_code
 Code references from Fractiz.com
 
 A lot of code in here is based on logic provided by human and written by AI tools. 
